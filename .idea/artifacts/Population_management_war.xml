@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Population-management:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="Population-management-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="Population-management:war exploded" />
+    </root>
+  </artifact>
+</component>
